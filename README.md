@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vandan Nandwana</h1>
 <h3 align="center">A passionate computer science student specializing in Android development and backend support. I've built several impressive projects, including a Bhagwat Geeta app and a Harry Potter character info app, using modern technologies like Kotlin, Jetpack Compose, and MVVM architecture.</h3>
 
-- 🔭 I’m currently working on [Auto-Con](https://github.com/vandannandwana/Auto-ConEngineer.git)
+- 🔭 I’m currently working on [Auto-Con[DESKTOP]](https://github.com/vandannandwana/Auto-ConEngineer.git), [Auto-Con[MOBILE]](https://github.com/vandannandwana/Build_Connect.git)
 
 - 🌱 I’m currently learning **Google-Cloude, Machine Learning**
 
