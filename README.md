@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google-Cloude, Machine Learning**
 
-- 💬 Ask me about **Java, Android, Spring-Boot, Jetpack Compose, Python**
+- 💬 Ask me about **Jetpack Compose, Android, Java, Spring-Boot, Python**
 
 - 📫 How to reach me **nandviky4@gmail.com**
 
