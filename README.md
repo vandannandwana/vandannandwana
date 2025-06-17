@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Android, Spring-Boot, Jetpack Compose, Python**
 
-- 📫 How to reach me **vandan.nandwana.mail@gmail.com**
+- 📫 How to reach me **nandviky4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
